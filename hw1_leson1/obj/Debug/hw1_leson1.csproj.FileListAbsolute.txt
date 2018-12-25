@@ -1,0 +1,64 @@
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.exe.config
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.exe
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.Properties.Resources.resources
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.exe
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.pdb
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.exe.config
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.exe
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.pdb
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.exe
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.pdb
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.Properties.Resources.resources
+C:\Users\stryapkov\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.exe.config
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\bin\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.Properties.Resources.resources
+C:\Users\ДНС\Desktop\hw1_leson1\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.exe.config
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.Properties.Resources.resources
+C:\Users\ДНС\Desktop\hw1_leson2_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.exe.config
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.Properties.Resources.resources
+C:\Users\ДНС\Desktop\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.exe.config
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\bin\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.Properties.Resources.resources
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\hw_game_Stryapkov\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\bin\Debug\hw1_leson1.exe.config
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\obj\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\obj\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\bin\Debug\hw1_leson1.exe
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\bin\Debug\hw1_leson1.pdb
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\obj\Debug\hw1_leson1.Properties.Resources.resources
+C:\Users\ДНС\Desktop\Программирование\С#\c# projects\MyGameAsteroids\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+H:\MyGameAsteroids\hw1_leson1\bin\Debug\MyGame_Asteroids.exe.config
+H:\MyGameAsteroids\hw1_leson1\bin\Debug\MyGame_Asteroids.exe
+H:\MyGameAsteroids\hw1_leson1\bin\Debug\MyGame_Asteroids.pdb
+H:\MyGameAsteroids\hw1_leson1\obj\Debug\hw1_leson1.csprojResolveAssemblyReference.cache
+H:\MyGameAsteroids\hw1_leson1\obj\Debug\MyGame.Properties.Resources.resources
+H:\MyGameAsteroids\hw1_leson1\obj\Debug\hw1_leson1.csproj.GenerateResource.Cache
+H:\MyGameAsteroids\hw1_leson1\obj\Debug\MyGame_Asteroids.exe
+H:\MyGameAsteroids\hw1_leson1\obj\Debug\MyGame_Asteroids.pdb

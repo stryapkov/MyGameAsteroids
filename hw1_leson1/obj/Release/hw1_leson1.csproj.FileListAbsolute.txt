@@ -1,0 +1,11 @@
+H:\MyGameAsteroids\hw1_leson1\bin\Release\MyGame_Asteroids.exe.config
+H:\MyGameAsteroids\hw1_leson1\bin\Release\MyGame_Asteroids.exe
+H:\MyGameAsteroids\hw1_leson1\bin\Release\MyGame_Asteroids.pdb
+H:\MyGameAsteroids\hw1_leson1\obj\Release\hw1_leson1.csprojResolveAssemblyReference.cache
+H:\MyGameAsteroids\hw1_leson1\obj\Release\MyGame.Properties.Resources.resources
+H:\MyGameAsteroids\hw1_leson1\obj\Release\hw1_leson1.csproj.GenerateResource.Cache
+H:\MyGameAsteroids\hw1_leson1\obj\Release\MyGame_Asteroids.exe
+H:\MyGameAsteroids\hw1_leson1\obj\Release\MyGame_Asteroids.pdb
+C:\Users\stryapkov\Desktop\MyGameAsteroids\hw1_leson1\bin\Release\MyGame_Asteroids.exe.config
+C:\Users\stryapkov\Desktop\MyGameAsteroids\hw1_leson1\obj\Release\MyGame_Asteroids.exe
+C:\Users\stryapkov\Desktop\MyGameAsteroids\hw1_leson1\obj\Release\MyGame_Asteroids.pdb
